@@ -1,0 +1,1 @@
+package com.hongzhen.bean;public class Weather{	private WeatherInfo weatherinfo;	public WeatherInfo getWeatherinfo() {		return this.weatherinfo;	}	public void setWeatherinfo(WeatherInfo weatherinfo) {		this.weatherinfo = weatherinfo;	}}
